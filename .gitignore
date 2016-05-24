@@ -3,3 +3,7 @@
 ################################################################################
 
 /NeuralNetwork/Debug
+/NeuralNetwork/Release
+/Debug
+/Release
+/NeuralNetwork.VC.db
